@@ -1,0 +1,4 @@
+aiohttp==3.9.5
+Flask
+mitmproxy==11.0.2
+websockets==12.0
